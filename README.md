@@ -1,3 +1,5 @@
+
+![Static Badge](https://img.shields.io/badge/Wellcome_to-Wang_Liu's_home_page-blue)
 ## Hi there 👋
 
 <!--
@@ -5,13 +7,9 @@
 
 Here are some ideas to get you started:
 -->
-![Static Badge](https://img.shields.io/badge/Please-Star_Fork-blue)
-
-
 - 🔭 I’m currently pursuing PhD at Hunan University.
 - 🌱 I’m interested in Unsupervised Domain Adaptation, Semantic Segmentation, and Image Fusion.
 - 📫 Please feel free to attach me if you have any questions: liuwa@hnu.edu.cn
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -27,7 +25,10 @@ Here are some ideas to get you started:
 - Zhuojun Xie, Puhong Duan, Wang Liu, et, al, Feature consistency-based prototype network for open-set hyperspectral image classification. TNNLS, 2023. ([paper](https://ieeexplore.ieee.org/abstract/document/10008100))
 
 ## Awards
-- Second place in the 5th CVPR Agriculture Vision Challenge, 2024 ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw)
+- 2nd place in the 5th CVPR Agriculture Vision Challenge, 2024. ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw)
+- 1st place in the CVPR SyntaGen Challenge, 2024.
+- 1st place in the ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application, 2024.
+- Best paper award in Pattern Recognition, Machine Vision, and Intelligent Algorithms (PRMVIA), 2024.
 
 ## Github stats
 [![StuLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=StuLiu&theme=radical)](https://github.com/StuLiu/github-readme-stats)

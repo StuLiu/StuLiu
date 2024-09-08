@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ## Publications
 
-- Wang Liu, et, al. Uncertain Example Mining Network for Domain Adaptive Segmentation of Remote Sensing Images, TGRS, 2024 ([paper](https://ieeexplore.ieee.org/document/10666777)， [code](https://github.com/StuLiu/UemDA))
+- Wang Liu, et, al. Uncertain Example Mining Network for Domain Adaptive Segmentation of Remote Sensing Images, TGRS, 2024 ([paper](https://ieeexplore.ieee.org/document/10666777), [code](https://github.com/StuLiu/UemDA))
 - Wang Liu, et, al. Learn from Segment Anything Model: Local Region Homogenizing for Cross-domain Remote Sensing Image Segmentation, IGARSS, 2024 ([code](https://github.com/StuLiu/RegDA))
 - Wang Liu, et, al. Agriculture-Vision Challenge 2024--The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble, Arxiv, 2024 ([paper](https://arxiv.org/abs/2406.12271))
 - Wang Liu, et, al. SOSNet: Real-Time Small Object Segmentation via Hierarchical Decoding and Example Mining, TNNLS, 2023. ([paper](https://ieeexplore.ieee.org/document/10359121), [code](https://github.com/StuLiu/SOSNet))

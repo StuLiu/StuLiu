@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <!--- Zhuojun Xie, Puhong Duan, Wang Liu, et, al, Feature consistency-based prototype network for open-set hyperspectral image classification. TNNLS, 2023. ([paper](https://ieeexplore.ieee.org/abstract/document/10008100))-->
 
 ## Awards
-- 1st place in rsipac 2024 Track 1 - Optical SAR Fusion for Cloud Removal. <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
-- 2nd place in the 5th CVPR Agriculture Vision Challenge, 2024. <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
+- 1st place in rsipac 2024 Track 1 - Optical SAR Fusion for Cloud Removal. [code](https://github.com/StuLiu/RestormerCR) <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
+- 2nd place in the 5th CVPR Agriculture Vision Challenge, 2024. [code](https://github.com/StuLiu/CVPR-2024-AgriVision)<!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
 <!-- - 1st place in the CVPR SyntaGen Challenge, 2024.
 - 1st place in the ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application, 2024.
 - Best paper award in Pattern Recognition, Machine Vision, and Intelligent Algorithms (PRMVIA), 2024.-->

@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--- Zhuojun Xie, Puhong Duan, Wang Liu, et, al, Feature consistency-based prototype network for open-set hyperspectral image classification. TNNLS, 2023. ([paper](https://ieeexplore.ieee.org/abstract/document/10008100))-->
 
 ## Awards
-- 1st place in GRSS DFC 2025 Track 1 - All-Weather Land Cover Mapping. [code](https://github.com/StuLiu/dfc2025track1) <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
-- 1st place in rsipac 2024 Track 1 - Optical SAR Fusion for Cloud Removal. [code](https://github.com/StuLiu/RestormerCR) <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
-- 2nd place in the 5th CVPR Agriculture Vision Challenge, 2024. [code](https://github.com/StuLiu/CVPR-2024-AgriVision)<!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
+- 1st place in GRSS DFC 2025 Track 1 - All-Weather Land Cover Mapping. ([solution](https://arxiv.org/abs/2504.13458), [code](https://github.com/StuLiu/dfc2025track1)) <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
+- 1st place in rsipac 2024 Track 1 - Optical SAR Fusion for Cloud Removal. ([solution](), [code](https://github.com/StuLiu/S2Former)) <!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
+- 2nd place in the 5th CVPR Agriculture Vision Challenge, 2024. ([solution](https://arxiv.org/abs/2406.12271),[code](https://github.com/StuLiu/CVPR-2024-AgriVision))<!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/loxAUxwZghw) -->
 <!-- - 1st place in the CVPR SyntaGen Challenge, 2024.
 - 1st place in the ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application, 2024.
 - Best paper award in Pattern Recognition, Machine Vision, and Intelligent Algorithms (PRMVIA), 2024.-->

@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Publications
-
+- Wang Liu, et, al. Squeeze Context into Patches: Towards Memory–efficient Ultral–high Resolution Semantic Segmentation, IJCAI, 2025 ([paper](), [code](https://github.com/StuLiu/SCPSeg))
+- Wang Liu, et, al. Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping, IGARSS, 2025 ([paper](https://arxiv.org/abs/2504.13458), [code](https://github.com/StuLiu/dfc2025track1))
 - Wang Liu, et, al. Uncertain Example Mining Network for Domain Adaptive Segmentation of Remote Sensing Images, TGRS, 2024 ([paper](https://ieeexplore.ieee.org/document/10666777), [code](https://github.com/StuLiu/UemDA))
 - Wang Liu, et, al. Learn from Segment Anything Model: Local Region Homogenizing for Cross-domain Remote Sensing Image Segmentation, IGARSS, 2024 ([paper](https://ieeexplore.ieee.org/document/10642007), [code](https://github.com/StuLiu/RegDA))
 - Wang Liu, et, al. Agriculture-Vision Challenge 2024--The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble, Arxiv, 2024 ([paper](https://arxiv.org/abs/2406.12271))
